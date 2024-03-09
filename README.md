@@ -1,7 +1,6 @@
-# Hi, I'm Zach :wave:
+# Hi, I'm Fajar Al Rahman :wave:
 
-Making computer graphics fun and beautiful because immersive technology is the
-future Experience Machine.
+Student full stack web dev at Infinite Learning 2024 batch 6 
 
 <table>
   <tbody>
