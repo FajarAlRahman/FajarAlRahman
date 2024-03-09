@@ -6,8 +6,8 @@ Student full stack web dev at Infinite Learning 2024 batch 6
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/cszach/Raydiance">
-          <img alt="Raydiance" src="img/projects/raydiance.png" />
+        <a target="_blank" href="https://github.com/FajarAlRahman/Web-Store-Project/tree/main">
+          <img alt="Web-Store-Project" style="width:200px;height:100px;" src="https://github.com/FajarAlRahman/Web-Store-Project/blob/main/Doc/Screenshot%202024-03-09%20141101.png" />
         </a>
       </td>
       <td>
@@ -17,7 +17,7 @@ Student full stack web dev at Infinite Learning 2024 batch 6
       </td>
     </tr>
     <tr>
-      <td>CUDA ray tracing</td>
+      <td>Web Store Project</td>
       <td>3D synthwave aesthetics driving simulator</td>
     </tr>
     <tr>
