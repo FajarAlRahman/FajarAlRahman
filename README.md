@@ -10,17 +10,17 @@ Student full stack web dev at Infinite Learning 2024 batch 6
           <img alt="Web-Store-Project" style="width:200px;height:100px;" src="https://github.com/FajarAlRahman/Web-Store-Project/blob/main/Doc/Screenshot%202024-03-09%20141101.png" />
         </a>
       </td>
-      <td>
+<!--       <td>
         <a target="_blank" href="https://cszach.github.io/synthwave-drive">
           <img alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
         </a>
-      </td>
+      </td> -->
     </tr>
     <tr>
       <td>Web Store Project</td>
-      <td>3D synthwave aesthetics driving simulator</td>
+<!--       <td>3D synthwave aesthetics driving simulator</td> -->
     </tr>
-    <tr>
+<!--     <tr>
       <td>
         <a target="_blank" href="https://github.com/cszach/LastPlayed">
           <img alt="LastPlayed" src="img/projects/lastplayed.png" />
@@ -51,12 +51,12 @@ Student full stack web dev at Infinite Learning 2024 batch 6
     <tr>
       <td>WebGL experiments</td>
       <td>Design portfolio</td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
 ## Quick résumé
-
+<!-- 
 <img align="right" alt="Bred the penguin chillin' by the fire." height="150" src="img/Fire.gif" />
 
 :shipit: CS + Systems Research Fellow @ [**University of Rochester**][ur]  
@@ -72,9 +72,9 @@ Student full stack web dev at Infinite Learning 2024 batch 6
 [taperk]: https://taperk.com
 [roclab]: https://roclab.io
 [42tm]: https://github.com/42tm
-
+-->
 ## Skills
-
+<!-- 
 Programming languages:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
@@ -120,13 +120,13 @@ _Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
     <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
   </b>
 </p>
-
+-->
 ---
 
 <!--<a href="https://novakcgx.me">
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
-
+<!--
 <a href="mailto:duongnguyen18@siggraph.org">
   <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
